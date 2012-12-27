@@ -1,4 +1,4 @@
-#Looking for a fun open source project to challenge you?  TicketsBox is for you.
+#summary Looking for a fun open source project to challenge you?  TicketsBox is for you.
 
 = Introduction =
 
