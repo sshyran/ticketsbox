@@ -1,0 +1,1 @@
+TicktetsBox is an online ticket box office that allows for the sale of tickets to events.  Each event is held in a venue (Cafeteria, Gymnasium, Theatre, Coliseum).  Each venue has its own unique seating arrangement, with some seats being better than others.
